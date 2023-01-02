@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Muhammad-RK-Isa/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://muhammad-rk-isa.github.io/product-preview-card-component)
+- Solution URL: [Click Here](https://github.com/Muhammad-RK-Isa/product-preview-card-component)
+- Live Site URL: [Click Here](https://muhammad-rk-isa.github.io/product-preview-card-component)
 
 ## My process
 
